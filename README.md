@@ -6,7 +6,7 @@
 
 🚀 **Embedded Systems & AI Developer** | Arduino, ESP32, Edge AI, Custom LLM Solutions  
 
-I help **startups, innovators, and educators** build cutting-edge solutions by combining  
+I help **startups, innovators, enthuciasts, and educators** build cutting-edge solutions by combining  
 **electronics engineering, embedded systems, and artificial intelligence.**  
 
 -------------------------------------------------------------------------------------------------
@@ -48,7 +48,7 @@ I help **startups, innovators, and educators** build cutting-edge solutions by c
 `Sensors (I2C, SPI, UART, analog, digital)` `CNC / 3D Printing`  
 
 **AI/ML Tools:**  
-`TensorFlow` `PyTorch` `Transformers` `ONNX` `TensorFlow Lite`  
+`TensorFlow` `PyTorch` `Transformers` `TensorFlow Lite`  
 
 --------------------------------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ I help **startups, innovators, and educators** build cutting-edge solutions by c
 💼 Freelance Profiles: [Upwork](#) | [Fiverr](#) | [Workana](#)  
 📺 YouTube: [Saikat Robotics & AI](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
 📧 Email: saikatmohantabkp@gmail.com  
-
+https://www.youtube.com/@cosmikodes
 ---------------------------------------------------------------------------------------------------
 
 ⭐️ _____If you like my work, consider following me here on GitHub to stay updated with my latest projects.______  
