@@ -1,21 +1,63 @@
+-------------------------------------------------------------------------------------------------
 #About MySelf:
+-------------------------------------------------------------------------------------------------
 
-👋 Hello, I'm @SaikatMohanta, a passionate PCB designer, MCU programmer, and product developer based in Kolkata, West Bengal, India. My journey in the world of technology revolves around my deep interest in Physics, Electronics, and Programming. Currently, I'm diving into the realms of C++, Python and PICmcu, constantly expanding my skills and pushing the boundaries of what's possible.
+# 👋 Hi, I’m Saikat Mohanta  
 
-🔌 With expertise in PCB design, I love turning ideas into tangible electronic solutions. I thrive on the challenges of designing efficient and innovative circuits that bring concepts to life. As an MCU programmer, I enjoy crafting robust and optimized code that ensures seamless functionality.
+🚀 **Embedded Systems & AI Developer** | Arduino, ESP32, Edge AI, Custom LLM Solutions  
 
-🌱 When I'm not immersed in circuits and code, you can find me exploring new theoratical concepts in Physics and Cosmology (the study of the Universe) or brainstorming creative solutions to real-world problems. I believe in the power of technology to shape a better future.
+I help **startups, innovators, and educators** build cutting-edge solutions by combining  
+**electronics engineering, embedded systems, and artificial intelligence.**  
 
-📫 Feel free to reach out to me at saikatmohantabkp@gmail.com. I also have an Youtube channel related to Coding and Electronics,
-link to the channel is : https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ. 
+-------------------------------------------------------------------------------------------------
 
-!! Let's connect, collaborate, and build amazing projects together !!
+## 🔧 What I Do  
+- 🖥️ **Embedded Systems** → Arduino, ESP32, PIC, AVR, IoT & automation projects  
+- 🤖 **AI & Machine Learning** → Transformers, LLM integration, chatbots, ML models  
+- ⚡ **Edge AI** → AI deployment on microcontrollers (TensorFlow Lite, ONNX)  
+- 🎓 **Mentorship** → Robotics, electronics, physics, math, and AI  
 
+--------------------------------------------------------------------------------------------------
 
+## 📂 Featured Projects  
 
-#PCBDesigner #MCUProgrammer #ProductDeveloper #ElectronicsEnthusiast #PhysicsLover #OpenSourceAdvocate
+🔹 [2D & 3D Laser CNC Engraver Machine](#)  
+*Designed & developed up to 80W CNC laser engraver, with GRBL software integration.*  
 
-<!---
-SaikatMohanta/SaikatMohanta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 [Smart Home Automation System](#)  
+*IoT-based WiFi & IR remote automation, used in local communities.*  
+
+🔹 [Robotics Collection](#)  
+*Line follower, edge avoider, obstacle avoider, and Bluetooth/WiFi robots.*  
+
+🔹 [Custom AI Transformer Models](#)  
+*Encoder-decoder architectures with masking & attention, tested on custom datasets.*  
+
+🔹 [YouTube Knowledge Hub](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+*Electronics, coding, robotics tutorials for learners worldwide.*  
+
+-------------------------------------------------------------------------------------------------
+
+## 🛠️ Tech Stack  
+
+**Languages & Tools:**  
+`C` `C++` `Python` `Arduino IDE` `MPLAB X IDE` `Microchip Studio` `EasyEDA` `Multisim`  
+
+**Hardware & Modules:**  
+`Arduino UNO/MEGA/Nano` `ESP32 / ESP8266` `NodeMCU` `AVR` `PIC`  
+`Sensors (I2C, SPI, UART, analog, digital)` `CNC / 3D Printing`  
+
+**AI/ML Tools:**  
+`TensorFlow` `PyTorch` `Transformers` `ONNX` `TensorFlow Lite`  
+
+--------------------------------------------------------------------------------------------------
+
+## 📫 Let’s Connect  
+🌐 Portfolio Website: [Coming Soon]  
+💼 Freelance Profiles: [Upwork](#) | [Fiverr](#) | [Workana](#)  
+📺 YouTube: [Saikat Robotics & AI](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+📧 Email: saikatmohantabkp@gmail.com  
+
+---------------------------------------------------------------------------------------------------
+
+⭐️ _____If you like my work, consider following me here on GitHub to stay updated with my latest projects.______  
