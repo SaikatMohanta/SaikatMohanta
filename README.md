@@ -1,4 +1,3 @@
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
 
 -------------------------------------------------------------------------------------------------
 #About MySelf:
@@ -51,7 +50,8 @@ I help **startups, innovators, enthuciasts, and educators** build cutting-edge s
 
 **AI/ML Tools:**  
 `TensorFlow` `PyTorch` `Transformers` `TensorFlow Lite`  
-
+--------------------------------------------------------------------------------------------------
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
 --------------------------------------------------------------------------------------------------
 
 ## 📫 Let’s Connect  
