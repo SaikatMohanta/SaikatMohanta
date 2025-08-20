@@ -1,3 +1,5 @@
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
+
 -------------------------------------------------------------------------------------------------
 #About MySelf:
 -------------------------------------------------------------------------------------------------
