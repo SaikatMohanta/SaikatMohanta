@@ -55,9 +55,9 @@ I help **startups, innovators, enthuciasts, and educators** build cutting-edge s
 ## 📫 Let’s Connect  
 🌐 Portfolio Website: [Coming Soon]  
 💼 Freelance Profiles: [Upwork](#) | [Fiverr](#) | [Workana](#)  
-📺 YouTube: [Saikat Robotics & AI](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+📺 YouTube: (https://www.youtube.com/@cosmikodes) 
 📧 Email: saikatmohantabkp@gmail.com  
-https://www.youtube.com/@cosmikodes
+
 ---------------------------------------------------------------------------------------------------
 
 ⭐️ _____If you like my work, consider following me here on GitHub to stay updated with my latest projects.______  
