@@ -8,7 +8,7 @@ I help innovators, startups, and educators bring their ideas to life by combinin
 
 
 # 🚀 Skills & Tools
-
+<div align="center">
 <table>
   <tr>
     <!-- Left Column: Skills & Tools -->
@@ -38,7 +38,7 @@ I help innovators, startups, and educators bring their ideas to life by combinin
     </td>
   </tr>
 </table>
-
+</div>
 
 ## 📂 Featured Projects  
 
