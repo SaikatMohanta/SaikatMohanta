@@ -109,7 +109,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 ---
 
 <p align="center">
-  <img src="assets/11113.jpeg" alt="CosmiKodes Logo" width="120"/>
+  <img src="assets/11113.jpeg" alt="CosmiKodes Logo" width="120%"/>
 </p>
 
 ⭐ *If you like my work, consider following me — it motivates me to share more projects and tutorials!*  
