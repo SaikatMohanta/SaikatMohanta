@@ -20,6 +20,9 @@ I help innovators, startups, and educators bring their ideas to life by combinin
 ![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Featured Projects  
 
