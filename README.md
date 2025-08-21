@@ -8,22 +8,34 @@ I help innovators, startups, and educators bring their ideas to life by combinin
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🔧 Skills & Tools  
+<table>
+  <tr>
+    <!-- Left Column: Skills & Tools -->
+    <td valign="top" width="50%">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![Edge AI](https://img.shields.io/badge/Edge_AI-2E7D32?style=for-the-badge&logo=nvidia&logoColor=white)  
-![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+      ## 🔧 Skills & Tools  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+      ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+      ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+      ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+      ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+      ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+      ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+      ![Edge AI](https://img.shields.io/badge/Edge_AI-2E7D32?style=for-the-badge&logo=nvidia&logoColor=white)  
+      ![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 
-## 🔧 GitHub Stats
+    </td>
 
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
+    <!-- Right Column: GitHub Stats -->
+    <td valign="top" width="50%">
+
+      ## 📊 GitHub Stats  
+
+      ![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
+
+    </td>
+  </tr>
+</table>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
