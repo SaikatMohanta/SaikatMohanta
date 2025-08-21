@@ -1,103 +1,116 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Saikat Mohanta</h1>
-<h3 align="center">🚀 Embedded Systems & AI Developer | Robotics Mentor | Electronics Engineer</h3>
-
+<!-- Profile Banner -->
 <p align="center">
-  <a href="mailto:saikatmohantabkp@gmail.com"><img src="https://img.shields.io/badge/Email-saikatmohantabkp%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.youtube.com/@cosmikodes"><img src="https://img.shields.io/badge/YouTube-CosmiKodes-red?style=for-the-badge&logo=youtube"></a>
-  <a href="https://github.com/SaikatMohanta"><img src="https://img.shields.io/badge/GitHub-SaikatMohanta-black?style=for-the-badge&logo=github"></a>
-  <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-Freelancer-1DBF73?style=for-the-badge&logo=fiverr"></a>
-  <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-Freelancer-6FDA44?style=for-the-badge&logo=upwork"></a>
-  <a href="https://www.workana.com/"><img src="https://img.shields.io/badge/Workana-Expert-blue?style=for-the-badge"></a>
+  <img src="assets/profile_banner.jpeg" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
 </p>
 
----  ---  ---
+<h1 align="center">👋 Hi, I'm <span style="color:#2b82e6">Saikat Mohanta</span></h1>
+<h3 align="center">🚀 Embedded Systems & AI Developer | Robotics Mentor | Electronics Engineer</h3>
 
-## 🔹 About Myself  
+---
 
-- 🎓 Electronics Engineer with expertise in **physics, mathematics, and computer systems**  
-- 💻 Specialist in **Arduino, ESP32, PIC, AVR, and Edge AI**  
-- 🤖 **Robotics mentor** with experience teaching in schools & STEM labs  
-- 🧠 Passionate about **AI/ML, Transformers, On-device Inference**  
-- 🌍 Coming Soon **Freelancer** on *Upwork, Fiverr, Workana* profiles
-- 🎥 Running a **YouTube channel** on coding, robotics & electronics → [My Channel](https://www.youtube.com/@cosmikodes)
+## 🌟 About Me  
 
-📌 Currently focused on **merging Embedded Systems + AI** to build smart devices, IoT, and automation solutions.  
+I specialize in **bridging hardware and intelligence** — developing  
+⚡ **Embedded Systems** | 🌐 **IoT Devices** | 🤖 **Robotics Solutions** | 🧠 **Custom AI/ML Models**  
 
----  ---  ---
+With **5+ years of hands-on experience**, I help innovators, startups, and educators bring their ideas to life — from **concept → prototype → deployment**.  
 
-## 🔹 Skills & Tools  
+🎓 Electronics Engineer | 👨‍🏫 Robotics Mentor | 🌍 Freelancer on **Upwork, Fiverr, Workana**  
 
-### 🛠️ Hardware & Embedded Systems  
-<p>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white">
-  <img src="https://img.shields.io/badge/PIC_Microcontrollers-003366?style=for-the-badge&logo=microchip&logoColor=white">
-  <img src="https://img.shields.io/badge/AVR-CC0000?style=for-the-badge&logo=Atmel&logoColor=white">
-  <img src="https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white">
-</p>  
+💡 *Currently focused on combining Embedded Systems + AI for smart devices, IoT, and automation.*  
 
-### 💻 Programming & AI/ML  
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white">
-</p>  
+---
 
-### ⚡ Other Tools & Tech  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  <img src="https://img.shields.io/badge/3D_Printing-FF6F00?style=for-the-badge&logo=3d&logoColor=white">
-  <img src="https://img.shields.io/badge/CNC_Machines-4285F4?style=for-the-badge&logo=autodesk&logoColor=white">
-  <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internet-of-things&logoColor=white">
-</p>  
+## 🛠️ Skills & Tools  
 
----  ---  ---
+### 🔹 Hardware & Embedded Systems  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+![PIC](https://img.shields.io/badge/PIC%20MCU-00599C?style=for-the-badge&logo=microchip&logoColor=white)  
+![AVR](https://img.shields.io/badge/AVR-003366?style=for-the-badge&logo=atmel&logoColor=white)  
+![IoT](https://img.shields.io/badge/IoT-Connected%20Devices-blue?style=for-the-badge)  
+![Robotics](https://img.shields.io/badge/Robotics-AI--Driven-orange?style=for-the-badge)  
 
-## 🔹 Featured Projects  
+### 🔹 Programming & AI/ML  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-004488?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)  
 
-📌 [**2D-3D Laser CNC Engraver Machine**](https://github.com/SaikatMohanta)  
-*Designed & developed CNC engraver machine (up to 80W) with GRBL integration.*  
+### 🔹 Tools & Others  
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+![MPLAB X IDE](https://img.shields.io/badge/MPLAB%20X%20IDE-Microchip-red?style=for-the-badge)  
+![Microchip Studio](https://img.shields.io/badge/Microchip%20Studio-8C1C13?style=for-the-badge)  
+![3D Printing](https://img.shields.io/badge/3D%20Printing-Ender3%20Pro-orange?style=for-the-badge)  
+![CNC](https://img.shields.io/badge/CNC%20Projects-Laser%20Engraver-blueviolet?style=for-the-badge)  
 
-📌 [**Home Automation System (WiFi + IR Remote)**](https://github.com/SaikatMohanta)  
-*Smart IoT devices with **IR + WiFi** for appliance control.*  
+---
 
-📌 [**Robotics Projects**](https://github.com/SaikatMohanta)  
-*Line follower, obstacle avoider, Bluetooth/WiFi robots, autonomous systems.*  
+## 📌 Featured Projects  
 
-📌 [**ESP32-CAM IoT Surveillance**](https://github.com/SaikatMohanta)  
-*Remote monitoring + AI image processing on ESP32-CAM.*  
+- 🔧 **[2D-3D Laser CNC Engraver Machine](https://github.com/SaikatMohanta)**  
+  *Designed & developed a CNC engraver machine up to 80W, with custom firmware and GRBL integration.*  
 
-📌 [**Custom AI Transformers**](https://github.com/SaikatMohanta)  
-*Experiments with encoder-decoder, attention masking, Q-K-V for LLMs.*  
+- 🏠 **[Home Automation System (WiFi + IR Remote)](https://github.com/SaikatMohanta)**  
+  *Smart home automation devices, sold locally. Integrated IR + WiFi for appliance control.*  
 
----  ---  ---
+- 🤖 **[Robotics Projects (Arduino-based)](https://github.com/SaikatMohanta)**  
+  *Line follower, edge avoider, Bluetooth/WiFi controlled robots, autonomous navigation systems.*  
+
+- 📷 **[ESP32-CAM IoT Surveillance](https://github.com/SaikatMohanta)**  
+  *ESP32-CAM project with remote monitoring, image processing, and AI-based extensions.*  
+
+- 🧠 **[Custom AI Transformers](https://github.com/SaikatMohanta)**  
+  *Experimenting with encoder-decoder architectures, attention masking, and Q-K-V implementations for LLMs.*  
+
+---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaikatMohanta&theme=tokyonight" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=radical&hide_border=true" height="180em"/>
+</p>
+
+---
+
+## 📜 Certifications & Highlights  
+
+- ✅ Certified in **Embedded C & Microcontrollers**  
+- ✅ AI/ML specialization with **PyTorch & TensorFlow**  
+- ✅ Robotics mentor with **school & STEM lab teaching experience**  
+- ✅ Built **commercial IoT devices** (home automation, AI edge devices)  
+
+---
+
+## 🌍 My Online Presence  
+
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ"><img src="assets/yt_banner.jpeg" width="70%"/></a>
 </p>  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=tokyonight" height="160px"/>
-</p>
+📹 [**YouTube Channel**](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+💼 [**Upwork**](https://www.upwork.com/) | [**Fiverr**](https://www.fiverr.com/) | [**Workana**](https://www.workana.com/)  
+🐙 [**GitHub**](https://github.com/SaikatMohanta)  
+✉️ **saikatmohantabkp@gmail.com**  
 
----  ---  ---
+---
 
-## 🔹 Let's Work Together  
+## 🤝 Let’s Collaborate  
 
 💡 If you're looking for:  
-✔️ An **Embedded Systems Engineer** with AI/ML expertise  
-✔️ A **Robotics Mentor & Educator**  
-✔️ A **Freelancer** who can handle both hardware & software  
+- An **embedded systems engineer** who understands **AI/ML**  
+- A **mentor** for robotics, physics, or AI  
+- A **freelancer** who can handle **both code & hardware**  
 
-📩 **Reach Out:** [Email Me](mailto:saikatmohantabkp@gmail.com)  
+👉 Let’s connect and build something impactful together!  
+
+---
 
 <p align="center">
-  ⭐ *If you like my work, consider following me — it motivates me to share more projects & tutorials!*  
+  <img src="assets/cosmikodes_logo.jpeg" alt="CosmiKodes Logo" width="120"/>
 </p>
+
+⭐ *If you like my work, consider following me — it motivates me to share more projects and tutorials!*  
