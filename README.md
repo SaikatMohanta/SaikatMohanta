@@ -4,27 +4,27 @@
 
 <p align="center">
   <a href="mailto:saikatmohantabkp@gmail.com"><img src="https://img.shields.io/badge/Email-saikatmohantabkp%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ"><img src="https://img.shields.io/badge/YouTube-Saikat_Mohanta-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.youtube.com/@cosmikodes"><img src="https://img.shields.io/badge/YouTube-Saikat_Mohanta-red?style=for-the-badge&logo=youtube"></a>
   <a href="https://github.com/SaikatMohanta"><img src="https://img.shields.io/badge/GitHub-SaikatMohanta-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-Freelancer-1DBF73?style=for-the-badge&logo=fiverr"></a>
   <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-Freelancer-6FDA44?style=for-the-badge&logo=upwork"></a>
   <a href="https://www.workana.com/"><img src="https://img.shields.io/badge/Workana-Expert-blue?style=for-the-badge"></a>
 </p>
 
----
+---  ---  ---
 
-## 🔹 About Me  
+## 🔹 About Myself  
 
 - 🎓 Electronics Engineer with expertise in **physics, mathematics, and computer systems**  
 - 💻 Specialist in **Arduino, ESP32, PIC, AVR, and Edge AI**  
 - 🤖 **Robotics mentor** with experience teaching in schools & STEM labs  
 - 🧠 Passionate about **AI/ML, Transformers, On-device Inference**  
-- 🌍 Active **Freelancer** on *Upwork, Fiverr, Workana*  
-- 🎥 Running a **YouTube channel** on coding, robotics & electronics → [My Channel](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+- 🌍 Coming Soon **Freelancer** on *Upwork, Fiverr, Workana* profiles
+- 🎥 Running a **YouTube channel** on coding, robotics & electronics → [My Channel](https://www.youtube.com/@cosmikodes)
 
 📌 Currently focused on **merging Embedded Systems + AI** to build smart devices, IoT, and automation solutions.  
 
----
+---  ---  ---
 
 ## 🔹 Skills & Tools  
 
@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge&logo=internet-of-things&logoColor=white">
 </p>  
 
----
+---  ---  ---
 
 ## 🔹 Featured Projects  
 
@@ -74,7 +74,7 @@
 📌 [**Custom AI Transformers**](https://github.com/SaikatMohanta)  
 *Experiments with encoder-decoder, attention masking, Q-K-V for LLMs.*  
 
----
+---  ---  ---
 
 ## 📊 GitHub Stats  
 
@@ -87,7 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
----
+---  ---  ---
 
 ## 🔹 Let's Work Together  
 
