@@ -6,15 +6,15 @@ I help innovators, startups, and educators bring their ideas to life by combinin
 
 🔗 I’m also the creator of **[CosmiKodes on YouTube](https://www.youtube.com/@cosmikodes)** where I share demos, tutorials, and educational content in **electronics, robotics, physics, and AI**.  
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# 🚀 Skills & Tools
 
 <table>
   <tr>
     <!-- Left Column: Skills & Tools -->
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-      ## 🔧 Skills & Tools  
-
+      ### 🛠 Skills & Tools
       ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
       ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
       ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
@@ -22,22 +22,23 @@ I help innovators, startups, and educators bring their ideas to life by combinin
       ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
       ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
       ![Edge AI](https://img.shields.io/badge/Edge_AI-2E7D32?style=for-the-badge&logo=nvidia&logoColor=white)  
-      ![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+      ![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
     </td>
 
     <!-- Right Column: GitHub Stats -->
-    <td valign="top" width="50%">
+    <td width="50%" valign="top">
 
-      ## 📊 GitHub Stats  
+      ### 📊 GitHub Stats
+      ![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)  
 
-      ![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
+      ### 🔝 Top Languages
+      ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=tokyonight)
 
     </td>
   </tr>
 </table>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Featured Projects  
 
