@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:saikatmohantabkp@gmail.com"><img src="https://img.shields.io/badge/Email-saikatmohantabkp%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.youtube.com/@cosmikodes"><img src="https://img.shields.io/badge/YouTube-Saikat_Mohanta-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://www.youtube.com/@cosmikodes"><img src="https://img.shields.io/badge/YouTube-CosmiKodes-red?style=for-the-badge&logo=youtube"></a>
   <a href="https://github.com/SaikatMohanta"><img src="https://img.shields.io/badge/GitHub-SaikatMohanta-black?style=for-the-badge&logo=github"></a>
   <a href="https://www.fiverr.com/"><img src="https://img.shields.io/badge/Fiverr-Freelancer-1DBF73?style=for-the-badge&logo=fiverr"></a>
   <a href="https://www.upwork.com/"><img src="https://img.shields.io/badge/Upwork-Freelancer-6FDA44?style=for-the-badge&logo=upwork"></a>
