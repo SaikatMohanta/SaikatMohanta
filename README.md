@@ -4,7 +4,7 @@
   <img src="assets/1111.png" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, It's Me <span style="color:#2b82e6">Saikat Mohanta, you may call me **SaI**</span></h1>
+<h1 align="center">👋 Hi, It's Me <span style="color:#2b82e6">Saikat Mohanta, you may call me sAi</span></h1>
 <h3 align="center">🚀 Embedded Systems & AI Developer | Robotics Mentor | Electronics Engineer</h3>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
