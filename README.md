@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/1111.jpeg" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
+  <img src="assets/1111.png" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2b82e6">Saikat Mohanta</span></h1>
