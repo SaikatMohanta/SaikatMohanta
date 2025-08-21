@@ -1,16 +1,18 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <!-- Profile Banner -->
 <p align="center">
   <img src="assets/1111.png" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#2b82e6">Saikat Mohanta</span></h1>
+<h1 align="center">👋 Hi, It's Me <span style="color:#2b82e6">Saikat Mohanta, you may call me **SaI**</span></h1>
 <h3 align="center">🚀 Embedded Systems & AI Developer | Robotics Mentor | Electronics Engineer</h3>
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 🌟 About Me  
+## 🌟 About Myself  
 
-I specialize in **bridging hardware and intelligence** — developing  
+I specialize in **bridging hardware and intelligence** — development
+
 ⚡ **Embedded Systems** | 🌐 **IoT Devices** | 🤖 **Robotics Solutions** | 🧠 **Custom AI/ML Models**  
 
 With **5+ years of hands-on experience**, I help innovators, startups, and educators bring their ideas to life — from **concept → prototype → deployment**.  
@@ -19,7 +21,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 
 💡 *Currently focused on combining Embedded Systems + AI for smart devices, IoT, and automation.*  
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🛠️ Skills & Tools  
 
@@ -45,7 +47,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-Ender3%20Pro-orange?style=for-the-badge)  
 ![CNC](https://img.shields.io/badge/CNC%20Projects-Laser%20Engraver-blueviolet?style=for-the-badge)  
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Featured Projects  
 
@@ -64,7 +66,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 - 🧠 **[Custom AI Transformers](https://github.com/SaikatMohanta)**  
   *Experimenting with encoder-decoder architectures, attention masking, and Q-K-V implementations for LLMs.*  
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📊 GitHub Stats  
 
@@ -73,16 +75,15 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaikatMohanta&layout=compact&theme=radical&hide_border=true" height="180em"/>
 </p>
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📜 Certifications & Highlights  
-
-- ✅ Certified in **Embedded C & Microcontrollers**  
+ 
 - ✅ AI/ML specialization with **PyTorch & TensorFlow**  
 - ✅ Robotics mentor with **school & STEM lab teaching experience**  
 - ✅ Built **commercial IoT devices** (home automation, AI edge devices)  
-
----
+- ✅ Worked as **R&D Design Engineer**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌍 My Online Presence  
 
@@ -95,7 +96,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 🐙 [**GitHub**](https://github.com/SaikatMohanta)  
 ✉️ **saikatmohantabkp@gmail.com**  
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🤝 Let’s Collaborate  
 
@@ -106,10 +107,11 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 
 👉 Let’s connect and build something impactful together!  
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <img src="assets/11113.jpeg" alt="CosmiKodes Logo" width="22%"/>
 </p>
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ⭐ *If you like my work, consider following me — it motivates me to share more projects and tutorials!*  
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
