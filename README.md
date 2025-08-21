@@ -1,65 +1,68 @@
+# 👋 Hello, Its me, Saikat Mohanta 
 
--------------------------------------------------------------------------------------------------
-#About MySelf:
--------------------------------------------------------------------------------------------------
+🚀 **Embedded Systems & AI Developer** | Arduino • ESP32 • Edge AI • Custom AI/ML • Robotics Mentor  
 
-# 👋 Hi, I’m Saikat Mohanta  
+I help innovators, startups, and educators bring their ideas to life by combining **electronics engineering, embedded systems, and artificial intelligence**.  
 
-🚀 **Embedded Systems & AI Developer** | Arduino, ESP32, Edge AI, Custom LLM Solutions  
+🔗 I’m also the creator of **[CosmiKodes on YouTube](https://www.youtube.com/@cosmikodes)** where I share demos, tutorials, and educational content in **electronics, robotics, physics, and AI**.  
 
-I help **startups, innovators, enthuciasts, and educators** build cutting-edge solutions by combining  
-**electronics engineering, embedded systems, and artificial intelligence.**  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------
+## 🔧 Skills & Tools  
 
-## 🔧 What I Do  
-- 🖥️ **Embedded Systems** → Arduino, ESP32, PIC, AVR, IoT & automation projects  
-- 🤖 **AI & Machine Learning** → Transformers, LLM integration, chatbots, ML models  
-- ⚡ **Edge AI** → AI deployment on microcontrollers (TensorFlow Lite, ONNX)  
-- 🎓 **Mentorship** → Robotics, electronics, physics, math, and AI  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)  
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![Edge AI](https://img.shields.io/badge/Edge_AI-2E7D32?style=for-the-badge&logo=nvidia&logoColor=white)  
+![IoT](https://img.shields.io/badge/IoT-1E88E5?style=for-the-badge&logo=raspberrypi&logoColor=white)  
 
---------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📂 Featured Projects  
 
-🔹 [2D & 3D Laser CNC Engraver Machine](#)  
-*Designed & developed up to 80W CNC laser engraver, with GRBL software integration.*  
+### 🔹 [Arduino Home Automation](https://github.com/SaikatMohanta/Arduino-Home-Automation)  
+WiFi + IR remote-based home automation system with Arduino & ESP32.  
+- Features: Multiple device control, real-time feedback, IR + WiFi integration.  
+- Includes: Full code, wiring diagram, documentation, demo video.  
 
-🔹 [Smart Home Automation System](#)  
-*IoT-based WiFi & IR remote automation, used in local communities.*  
+### 🔹 [2D/3D Laser CNC Engraver](https://github.com/SaikatMohanta/Laser-CNC-Engraver)  
+CNC engraving machine (up to 80W) using AVR controllers & GRBL software.  
+- End-to-end design, firmware, and build logs.  
 
-🔹 [Robotics Collection](#)  
-*Line follower, edge avoider, obstacle avoider, and Bluetooth/WiFi robots.*  
+### 🔹 [Custom AI Transformer Model](https://github.com/SaikatMohanta/Custom-Transformer-LLM)  
+Implementation of a lightweight encoder-decoder transformer model for specific NLP tasks.  
+- Features: Attention mechanism, masking, Q-K-V database handling.  
+- Includes: Jupyter notebooks, explanations, and demo outputs.  
 
-🔹 [Custom AI Transformer Models](#)  
-*Encoder-decoder architectures with masking & attention, tested on custom datasets.*  
+### 🔹 [Robotics Projects](https://github.com/SaikatMohanta/Robotics-Collection)  
+Line follower, obstacle avoider, Bluetooth/WiFi-controlled bots.  
 
-🔹 [YouTube Knowledge Hub](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
-*Electronics, coding, robotics tutorials for learners worldwide.*  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--------------------------------------------------------------------------------------------------
+## 🎥 CosmiKodes YouTube Channel  
 
-## 🛠️ Tech Stack  
+👉 [**CosmiKodes on YouTube**](https://www.youtube.com/@cosmikodes)  
 
-**Languages & Tools:**  
-`C` `C++` `Python` `Arduino IDE` `MPLAB X IDE` `Microchip Studio` `EasyEDA` `Multisim`  
+🎯 What you’ll find:  
+- Project demos (Arduino, ESP32, robotics, AI-on-hardware)  
+- Tutorials (coding, electronics, AI concepts explained simply)  
+- Educational content (physics, math, and applied AI)  
+- Case studies linked with freelancing projects  
 
-**Hardware & Modules:**  
-`Arduino UNO/MEGA/Nano` `ESP32 / ESP8266` `NodeMCU` `AVR` `PIC`  
-`Sensors (I2C, SPI, UART, analog, digital)` `CNC / 3D Printing`  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**AI/ML Tools:**  
-`TensorFlow` `PyTorch` `Transformers` `TensorFlow Lite`  
---------------------------------------------------------------------------------------------------
-![Saikat's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaikatMohanta&show_icons=true&theme=tokyonight)
---------------------------------------------------------------------------------------------------
+## 🌍 Work With Me  
 
-## 📫 Let’s Connect  
-🌐 Portfolio Website: [Coming Soon]  
-💼 Freelance Profiles: [Upwork](#) | [Fiverr](#) | [Workana](#)  
-📺 YouTube: (https://www.youtube.com/@cosmikodes) 
-📧 Email: saikatmohantabkp@gmail.com  
+💼 Available for freelancing on:  
+- [Upwork](https://www.upwork.com/)  
+- [Fiverr](https://www.fiverr.com/)  
+- [Workana](https://www.workana.com/)  
 
----------------------------------------------------------------------------------------------------
+📩 Reach me: **saikatmohantabkp@gmail.com**  
 
-⭐️ _____If you like my work, consider following me here on GitHub to stay updated with my latest projects.______  
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+⭐ If you find my work useful, consider following me on GitHub and subscribing on YouTube. Let’s innovate together!  
