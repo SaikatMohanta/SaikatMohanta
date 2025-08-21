@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/profile_banner.jpeg" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
+  <img src="assets/1111.jpeg" alt="CosmiKodes - Embedded Systems + AI + Robotics" width="100%">
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#2b82e6">Saikat Mohanta</span></h1>
@@ -37,7 +37,6 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)  
 
 ### 🔹 Tools & Others  
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
@@ -88,10 +87,10 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 ## 🌍 My Online Presence  
 
 <p align="center">
-  <a href="https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ"><img src="assets/yt_banner.jpeg" width="70%"/></a>
+  <a href="https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ"><img src="assets/11112.jpeg" width="70%"/></a>
 </p>  
 
-📹 [**YouTube Channel**](https://www.youtube.com/channel/UCCzLPoawIEmqAn40Wdt9uCQ)  
+📹 [**YouTube Channel**](https://www.youtube.com/@cosmikodes) 
 💼 [**Upwork**](https://www.upwork.com/) | [**Fiverr**](https://www.fiverr.com/) | [**Workana**](https://www.workana.com/)  
 🐙 [**GitHub**](https://github.com/SaikatMohanta)  
 ✉️ **saikatmohantabkp@gmail.com**  
@@ -110,7 +109,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 ---
 
 <p align="center">
-  <img src="assets/cosmikodes_logo.jpeg" alt="CosmiKodes Logo" width="120"/>
+  <img src="assets/11113.jpeg" alt="CosmiKodes Logo" width="120"/>
 </p>
 
 ⭐ *If you like my work, consider following me — it motivates me to share more projects and tutorials!*  
