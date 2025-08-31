@@ -11,13 +11,15 @@
 
 ## 🌟 About Myself  
 
-I specialize in **bridging hardware and intelligence** — development
+Efficient Advancement is achieved by precise combination of complexity of HIGH LEVEL CODES with proper UTILISATION of available HARDWAREs
 
-⚡ **Embedded Systems** | 🌐 **IoT Devices** | 🤖 **Robotics Solutions** | 🧠 **Custom AI/ML Models**  
+My wisdom & Experience serving as the BRIDGE between HARDWARE and SOFTWARE-INTELLIGENCE
+
+⚡ **Embedded Systems** | 🌐 **IoT Devices** | 🤖 **Robotics, CNC Solutions** | 🧠 **Custom AI/ML Models**  
 
 With **5+ years of hands-on experience**, I help innovators, startups, and educators bring their ideas to life — from **concept → prototype → deployment**.  
 
-🎓 Electronics Engineer | 👨‍🏫 Robotics Mentor | 🌍 Freelancer on **Upwork, Fiverr, Workana**  
+🎓 Electronics Engineer | 👨‍🏫 Robotics Mentor | 🌍 Freelance services coming soon on **Upwork, Fiverr, Workana**  
 
 💡 *Currently focused on combining Embedded Systems + AI for smart devices, IoT, and automation.*  
 
@@ -63,7 +65,7 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 - 📷 **[ESP32-CAM IoT Surveillance](https://github.com/SaikatMohanta)**  
   *ESP32-CAM project with remote monitoring, image processing, and AI-based extensions.*  
 
-- 🧠 **[Custom AI Transformers](https://github.com/SaikatMohanta)**  
+- 🧠 **[Custom AI Transformers](https://github.com/SaikatMohanta/AI-assistant)**  
   *Experimenting with encoder-decoder architectures, attention masking, and Q-K-V implementations for LLMs.*  
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -77,12 +79,13 @@ With **5+ years of hands-on experience**, I help innovators, startups, and educa
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📜 Certifications & Highlights  
+## 📜 Specialty & Highlights  
  
 - ✅ AI/ML specialization with **PyTorch & TensorFlow**  
-- ✅ Robotics mentor with **school & STEM lab teaching experience**  
-- ✅ Built **commercial IoT devices** (home automation, AI edge devices)  
-- ✅ Worked as **R&D Design Engineer**
+- ✅ Robotics mentor in **schools & STEM lab teaching experience**  
+- ✅ Built **Circuit Schematics & PCB design** 
+- ✅ Worked as **R&D Electronics Engineer**
+- ✅ Embeded Programming combined with indepth knowledge of typical MCU architechtures
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🌍 My Online Presence  
